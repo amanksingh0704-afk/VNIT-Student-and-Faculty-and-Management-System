@@ -365,10 +365,13 @@ python vnit_aims_v2.py
 
 ---
 
-## Author
+## Team
 
-**Sangle Sarvambh Keshav**
-B.Tech Computer Science & Engineering — Semester 6
-Enrollment No: BT23CSE094
-Visvesvaraya National Institute of Technology, Nagpur
-Academic Year 2025–26
+This is a 2-member team project, built together.
+
+| Name | Enrollment No. | GitHub |
+|---|---|---|
+| Sangle Sarvambh Keshav | BT23CSE094 | [[profile link]](https://github.com/SarvambhSangle) |
+| Aman Kumar Singh | BT23CSE074 | [amanksingh0704-afk](https://github.com/amanksingh0704-afk) |
+
+Visvesvaraya National Institute of Technology, Nagpur, B.Tech Computer Science & Engineering
